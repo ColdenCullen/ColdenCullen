@@ -1,4 +1,17 @@
-### Hi there 👋
+### What's up I'm Colden, and this is my crib
+
+#### Fun stuff
+
+Most of the repos I have here are weird libraries I felt brifely compelled to build. Some interesting ones:
+ * [libtlb](https://github.com/ColdenCullen/libtlb/): A C library for safely distributing I/O work across threads
+ * [quack](https://github.com/ColdenCullen/quack): A D library for enforcing safe duck typing (think C++ concepts)
+ * [doveralls](https://github.com/ColdenCullen/doveralls): A D tool for uploading D code coverage results to [coveralls.io/](http://coveralls.io/)
+
+#### Work stuff
+
+Current: [@GoogleCloudPlatform](https://github.com/GoogleCloudPlatform/) - GCE virtual networking
+
+Past: [@awslabs](https://github.com/awslabs) - the SDK Common Runtime
 
 <!--
 **ColdenCullen/ColdenCullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
