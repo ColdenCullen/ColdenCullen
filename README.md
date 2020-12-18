@@ -11,7 +11,9 @@ Most of the repos I have here are weird libraries I felt brifely compelled to bu
 
 Current: [@GoogleCloudPlatform](https://github.com/GoogleCloudPlatform/) - GCE virtual networking
 
-Past: [@awslabs](https://github.com/awslabs) - the SDK Common Runtime
+Past:
+* [AWS](https://github.com/awslabs) - The SDK Common Runtime
+* [Amazon Lumberyard](https://github.com/aws/lumberyard) - Systems-y and Lua things
 
 <!--
 **ColdenCullen/ColdenCullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
