@@ -9,7 +9,7 @@ Most of the repos I have here are weird libraries I felt brifely compelled to bu
 
 #### Work stuff
 
-Current: [Secret Society Games](https://secretsocietygames.com/)
+Current: [Secret Dimension](https://secretdimension.com/)
 
 Past:
 * [@GoogleCloudPlatform](https://github.com/GoogleCloudPlatform/) - GCE virtual networking
